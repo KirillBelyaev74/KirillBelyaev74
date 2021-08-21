@@ -1,6 +1,16 @@
 - 👋 Hi, I’m Kirill Belyaev. I am 27 year old
 
-https://img.shields.io/badge/-Java-brightgreen
+____
+### Skills:
+
+ - ![](https://img.shields.io/badge/-Java-blueviolet) ![](https://img.shields.io/badge/-Maven-blueviolet) ![](https://img.shields.io/badge/-JaCoCo-blueviolet) ![](https://img.shields.io/badge/-Travic%20CI-blueviolet) 
+ - ![](https://img.shields.io/badge/-jUnit-blue) ![](https://img.shields.io/badge/-Mackito-blue) 
+ - ![](https://img.shields.io/badge/-SOLID-yellow) ![](https://img.shields.io/badge/-TDD-yellow)
+ - ![](https://img.shields.io/badge/-SQL-orange) ![](https://img.shields.io/badge/-PostgreSQL-orange) ![](https://img.shields.io/badge/-JDBC-orange) ![](https://img.shields.io/badge/-Hibernate-orange) 
+ - ![](https://img.shields.io/badge/-JSP-red) ![](https://img.shields.io/badge/-JSTL-red) ![](https://img.shields.io/badge/-HTML-red) ![](https://img.shields.io/badge/-JS-red) ![](https://img.shields.io/badge/-CSS-red) ![](https://img.shields.io/badge/-AJAX-red) ![](https://img.shields.io/badge/-JQuery-red) 
+ - ![](https://img.shields.io/badge/-Servlet-lightgrey) ![](https://img.shields.io/badge/-Tomcat-lightgrey) 
+ - ![](https://img.shields.io/badge/-Spring-green) ![](https://img.shields.io/badge/-IoC-green) ![](https://img.shields.io/badge/-Data-green) ![](https://img.shields.io/badge/-MVC-green) ![](https://img.shields.io/badge/-Rest-green) ![](https://img.shields.io/badge/-Security-green) ![](https://img.shields.io/badge/-Test-green) ![](https://img.shields.io/badge/-Boot-green) ![](https://img.shields.io/badge/-RestTemplate-green)
+
 ____
 
 ### My projects: :blush:
