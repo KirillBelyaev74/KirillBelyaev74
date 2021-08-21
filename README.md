@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Kirill Belyaev. I am 20 year old
--
+- 👋 Hi, I’m Kirill Belyaev. I am 27 year old
 
-
+https://img.shields.io/badge/-Java-brightgreen
 ____
 
-### My projects: 
+### My projects: :blush:
 - #### [Chat in rooms](https://github.com/KirillBelyaev74/job4j_chat)
   - Registration, authorization users by JWT token. The discussion in the rooms takes place through RestTemplate
   - PostgresSQL, Hibernate, Spring Boot / Security / Rest / Data / RestTemplate, JWT, Junit, Mockito
