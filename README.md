@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Kirill Belyaev. I am 27 year old
+- 👋 Hi, I’m Kirill Belyaev
+- I am 27 year old
+- My Java expirience is 2 years ⌚
 
 ____
 ### Skills:
