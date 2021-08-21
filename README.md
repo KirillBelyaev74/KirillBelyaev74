@@ -23,22 +23,22 @@ ____
 - #### [Forum](https://github.com/KirillBelyaev74/job4j_forum)
   - Registration, authorization users. Create, update, delete topics for discussion
   - PostgresSQL, Hibernate, Spring Boot / Security / Data, JSP, CSS, JS, JSTL, HTML, Log4j, Junit, Mockito
-- #### [Cars](https://github.com/KirillBelyaev74/job4j_cars)
+- #### [Cars](https://github.com/KirillBelyaev74/job4j_cars) :car:
   - Registration, authorization users. Create, update advertisements, load photo
   - PostgresSQL, Hibernate, Apache FileUpload, Apache Tomcat, Servlet, JSP, CSS, JS, JSTL, HTML, Jquery, Ajax, Log4j, Junit
-- #### [Dream job](https://github.com/KirillBelyaev74/job4j_dreamjob)
+- #### [Dream job](https://github.com/KirillBelyaev74/job4j_dreamjob) :office:
   - Registration, authorization users. Create, update, delete vacancy and candidates, load photo
   - PostgresSQL, JDBC, Apache FileUpload, Apache Tomcat, Servlet, JSP, CSS, JS, JSTL, HTML, Jquery, Ajax, Log4j, Junit
-- #### [Car accident]()
+- #### [Car accident]() :police_car:
   - Registration, authorization users. Registration, update, delete accident in road. May choose category and type
   - PostgresSQL, Hibernate, JDBC, Spring Boot / Security / Data, JSP, JSTL, Log4j, Junit
-- #### [Todo](https://github.com/KirillBelyaev74/job4j_car_accident)
+- #### [Todo](https://github.com/KirillBelyaev74/job4j_car_accident) :green_book:
   - Authorization, create task, choose category for this task, selection completed or unfulfilled or all the tasks
   - PostgresSQL, Hibernate, Apache Tomcat, Servlet, JS, JSP, Jquery, Ajax, Log4j, Junit
-- #### [Cinema](https://github.com/KirillBelyaev74/job4j_cinema)
+- #### [Cinema](https://github.com/KirillBelyaev74/job4j_cinema) :cinema:
   - Selection of seats in the hall and then payment
   - PostgresSQL, JDBC, Apache Tomcat, Servlet, JS, JSP, Jquery, Ajax, Log4j
-- #### [Tracker](https://github.com/KirillBelyaev74/job4j_tracker)
+- #### [Tracker](https://github.com/KirillBelyaev74/job4j_tracker) :white_check_mark:
   - Console app for create, update, delete, get tasks
   - PostgresSQL, Hibernate, JDBC, Spring Data, Junit
 - #### [Grabber](https://github.com/KirillBelyaev74/job4j_grabber)
