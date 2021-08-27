@@ -31,10 +31,10 @@ ____
 - #### [Dream job](https://github.com/KirillBelyaev74/job4j_dreamjob) :office:
   - Registration, authorization users. Create, update, delete vacancy and candidates, load photo
   - PostgresSQL, JDBC, Apache FileUpload, Apache Tomcat, Servlet, JSP, CSS, JS, JSTL, HTML, Jquery, Ajax, Log4j, Junit
-- #### [Car accident]() :police_car:
+- #### [Car accident](https://github.com/KirillBelyaev74/job4j_car_accident) :police_car:
   - Registration, authorization users. Registration, update, delete accident in road. May choose category and type
   - PostgresSQL, Hibernate, JDBC, Spring Boot / Security / Data, JSP, JSTL, Log4j, Junit
-- #### [Todo](https://github.com/KirillBelyaev74/job4j_car_accident) :green_book:
+- #### [Todo](https://github.com/KirillBelyaev74/job4j_todo) :green_book:
   - Authorization, create task, choose category for this task, selection completed or unfulfilled or all the tasks
   - PostgresSQL, Hibernate, Apache Tomcat, Servlet, JS, JSP, Jquery, Ajax, Log4j, Junit
 - #### [Cinema](https://github.com/KirillBelyaev74/job4j_cinema) :cinema:
