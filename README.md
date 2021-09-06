@@ -7,7 +7,7 @@ ____
 
  - ![](https://img.shields.io/badge/-Java-blueviolet) ![](https://img.shields.io/badge/-Maven-blueviolet) ![](https://img.shields.io/badge/-JaCoCo-blueviolet) ![](https://img.shields.io/badge/-Travic%20CI-blueviolet) 
  - ![](https://img.shields.io/badge/-jUnit-blue) ![](https://img.shields.io/badge/-Mackito-blue) 
- - ![](https://img.shields.io/badge/-SOLID-yellow) ![](https://img.shields.io/badge/-TDD-yellow)
+ - ![](https://img.shields.io/badge/-SOLID-yellow) ![](https://img.shields.io/badge/-TDD-yellow) ![](https://img.shields.io/badge/-DRY-yellow) ![](https://img.shields.io/badge/-KISS-yellow)
  - ![](https://img.shields.io/badge/-SQL-orange) ![](https://img.shields.io/badge/-PostgreSQL-orange) ![](https://img.shields.io/badge/-JDBC-orange) ![](https://img.shields.io/badge/-Hibernate-orange) 
  - ![](https://img.shields.io/badge/-JSP-red) ![](https://img.shields.io/badge/-JSTL-red) ![](https://img.shields.io/badge/-HTML-red) ![](https://img.shields.io/badge/-JS-red) ![](https://img.shields.io/badge/-CSS-red) ![](https://img.shields.io/badge/-AJAX-red) ![](https://img.shields.io/badge/-JQuery-red) 
  - ![](https://img.shields.io/badge/-Servlet-lightgrey) ![](https://img.shields.io/badge/-Tomcat-lightgrey) 
