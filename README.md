@@ -5,7 +5,7 @@
 ____
 ### Skills:
 
- - ![](https://img.shields.io/badge/-Java-blueviolet)(https://img.shields.io/badge/-Kotlin-blueviolet)
+ - ![](https://img.shields.io/badge/-Java-blueviolet) ![](https://img.shields.io/badge/-Kotlin-blueviolet)
  - ![](https://img.shields.io/badge/-Maven-blueviolet) ![](https://img.shields.io/badge/-JaCoCo-blueviolet) ![](https://img.shields.io/badge/-Travic%20CI-blueviolet) 
  - ![](https://img.shields.io/badge/-jUnit-blue) ![](https://img.shields.io/badge/-Mackito-blue) 
  - ![](https://img.shields.io/badge/-SOLID-yellow) ![](https://img.shields.io/badge/-TDD-yellow) ![](https://img.shields.io/badge/-DRY-yellow) ![](https://img.shields.io/badge/-KISS-yellow)
