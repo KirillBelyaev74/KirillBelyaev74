@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kirill Belyaev
-- I am 29 year old :older_man:
+- I am 30 year old :older_man:
 - My Java experience is 2 years, Kotlin experience is 3 years ⌚
 
 ____
@@ -14,13 +14,13 @@ ____
  - ![](https://img.shields.io/badge/-Servlet-lightgrey) ![](https://img.shields.io/badge/-Tomcat-lightgrey) 
  - ![](https://img.shields.io/badge/-Spring-green) ![](https://img.shields.io/badge/-IoC-green) ![](https://img.shields.io/badge/-Data-green) ![](https://img.shields.io/badge/-MVC-green) ![](https://img.shields.io/badge/-Rest-green) ![](https://img.shields.io/badge/-Security-green) ![](https://img.shields.io/badge/-Test-green) ![](https://img.shields.io/badge/-Boot-green) ![](https://img.shields.io/badge/-RestTemplate-green)
  - ![](https://img.shields.io/badge/-Rest-darkgreen) ![](https://img.shields.io/badge/-GRPC-darkgreen) ![](https://img.shields.io/badge/-Kakfa-darkgreen) 
- - ![](https://img.shields.io/badge/-Docker-yellow) ![](https://img.shields.io/badge/-Openshift-yellow) ![](https://img.shields.io/badge/-Jenkins-yellow) ![](https://img.shields.io/badge/-Istio-yellow) ![](https://img.shields.io/badge/-Ansible-yellow) 
+ - ![](https://img.shields.io/badge/-Docker-yellow) ![](https://img.shields.io/badge/-Openshift-yellow) ![](https://img.shields.io/badge/-Jenkins-yellow) ![](https://img.shields.io/badge/-Istio-yellow) ![](https://img.shields.io/badge/-Ansible-yellow)  ![](https://img.shields.io/badge/-Kubernetes-yellow) 
 
 ____
 
 ### My projects: :blush:
 - #### [Store](https://github.com/KirillBelyaev74/store_rest)
-  - Kotlin, PostgresSQL, Hibernate, Spring Boot / Security / Rest / Data, Docker, Kafka, Grpc
+  - Kotlin, PostgresSQL, Hibernate, Spring Boot / Security / Rest / Data, Docker, Kafka, Grpc, Kubernetes
 - #### [Chat in rooms](https://github.com/KirillBelyaev74/job4j_chat)
   - PostgresSQL, Hibernate, Spring Boot / Security / Rest / Data / RestTemplate, JWT, Junit, Mockito
 - #### [Url shortcut](https://github.com/KirillBelyaev74/job4j_url_shortcut)
