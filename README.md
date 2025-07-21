@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kirill Belyaev
 - I am 30 year old :older_man:
-- My Java experience is 2 years, Kotlin experience is 3 years ⌚
+- My Java experience is 2 years, Kotlin experience is 4 years ⌚
 
 ____
 ### Skills:
